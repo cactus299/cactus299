@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cactus299
+- 👋 Hi, I’m @Richmond299
 - 👀 I’m interested in football(the real football), table tennis, video games, 
 - 🌱 I’m currently learning Data analytics with Python
 - 💞️ I’m looking to collaborate on Data Analytics with Python
